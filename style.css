@@ -1,0 +1,66 @@
+
+.profile-picture {
+    height:220px;
+    background-size:cover;
+    border-radius:70%;
+    position:relative;
+     left: 45%;
+}
+
+h1 {
+  color: #66cc99;
+  font-size: 34px;
+  text-align: center;
+  position:relative;
+  vertical-align:middle;
+  width:220px;
+    left: 45%;
+
+}
+
+
+h3 {
+  color : #66cc99;
+  font-size: 24px;
+  text-align: center;
+
+}
+.Experience{
+  float: left;
+width: 50%;
+}
+.newspaper1 {
+content: "";
+display: table;
+
+}
+
+.biography {
+  float: right;
+  width: 50%;
+
+}
+
+.Interests{
+  float: right;
+width: 50%;
+}
+
+p {
+  color: #545556;
+  text-align: justify;
+}
+
+
+ul{
+  color: #545556;
+  text-align: left;
+}
+body {
+  background-color: white;
+}
+.border {
+border-style: dotted;
+color: black;
+margin-bottom: 20px;
+}
